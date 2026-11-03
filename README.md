@@ -124,20 +124,6 @@ An authentication-focused software project.
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gwawill&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwawill&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-<img width="90%" src="https://streak-stats.demolab.com?user=gwawill&theme=tokyonight&hide_border=true&background=0D1117" />
-
-</div>
-
----
-
 ## Let's Work Together
 
 I'm interested in collaborating with businesses, startups, and developers who need practical software solutions.
