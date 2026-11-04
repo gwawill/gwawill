@@ -6,7 +6,7 @@
 
 ### AI Engineer · Full-Stack Developer · Automation Specialist
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=200&section=header&text=BILL GWANYALLA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20intelligent%20software%20and%20automation&descAlignY=55&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=200&section=header&text=GWANYALLA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20intelligent%20software%20and%20automation&descAlignY=55&descSize=16" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Full-Stack+Software+Developer;Browser+Automation+%26+MCP;Building+Practical+AI-Powered+Products" alt="Typing SVG" />
 
