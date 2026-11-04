@@ -2,16 +2,16 @@
 
 <div align="center">
 
-# GWAWILL
+# BILL GWANYALLA
 
 ### AI Engineer · Full-Stack Developer · Automation Specialist
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=200&section=header&text=GWAWILL&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20intelligent%20software%20and%20automation&descAlignY=55&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=200&section=header&text=BILL GWANYALLA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20intelligent%20software%20and%20automation&descAlignY=55&descSize=16" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Full-Stack+Software+Developer;Browser+Automation+%26+MCP;Building+Practical+AI-Powered+Products" alt="Typing SVG" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-gwawill-181717?style=for-the-badge&logo=github)](https://github.com/gwawill)
-[![Freelance](https://img.shields.io/badge/Available_for-Freelance-22C55E?style=for-the-badge)](mailto:ADD_YOUR_EMAIL)
+[![Freelance](https://img.shields.io/badge/Available_for-Freelance-22C55E?style=for-the-badge)](mailto:gwanbill1@gmail.com)
 [![AI](https://img.shields.io/badge/Focus-AI%20%26%20Automation-7C3AED?style=for-the-badge)](https://github.com/gwawill)
 
 </div>
